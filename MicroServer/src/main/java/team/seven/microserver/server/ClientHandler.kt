@@ -103,7 +103,7 @@ class ClientHandler(private val server: Server, private val client: Socket) : Ga
             }
             else -> {
                 // Go and fuck yourself
-                
+
             }
         }
     }
