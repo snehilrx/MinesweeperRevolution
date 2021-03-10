@@ -1,0 +1,3 @@
+include ':MicroServer'
+include ':app'
+rootProject.name = "MinesweeperRevolution"
